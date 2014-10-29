@@ -1,0 +1,38 @@
+c:\users\caros_000\documents\visual studio 2013\Projects\test1\test1\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\caros_000\documents\visual studio 2013\Projects\test1\test1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\caros_000\documents\visual studio 2013\Projects\test1\test1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\caros_000\documents\visual studio 2013\Projects\test1\test1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\caros_000\documents\visual studio 2013\Projects\test1\test1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\caros_000\documents\visual studio 2013\Projects\test1\test1\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\caros_000\documents\visual studio 2013\Projects\test1\test1\Bin\Debug\test1.dll
+c:\users\caros_000\documents\visual studio 2013\Projects\test1\test1\Bin\Debug\test1.pdb
+c:\users\caros_000\documents\visual studio 2013\Projects\test1\test1\Bin\Debug\AppManifest.xaml
+c:\users\caros_000\documents\visual studio 2013\Projects\test1\test1\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\caros_000\documents\visual studio 2013\Projects\test1\test1\Bin\Debug\test1_Debug_AnyCPU.xap
+c:\users\caros_000\documents\visual studio 2013\Projects\test1\test1\obj\Debug\App.g.cs
+c:\users\caros_000\documents\visual studio 2013\Projects\test1\test1\obj\Debug\MainPage.g.cs
+c:\users\caros_000\documents\visual studio 2013\Projects\test1\test1\obj\Debug\test1.g.resources
+c:\users\caros_000\documents\visual studio 2013\Projects\test1\test1\obj\Debug\test1.Resources.AppResources.resources
+c:\users\caros_000\documents\visual studio 2013\Projects\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+c:\users\caros_000\documents\visual studio 2013\Projects\test1\test1\obj\Debug\test1.dll
+c:\users\caros_000\documents\visual studio 2013\Projects\test1\test1\obj\Debug\test1.pdb
+c:\users\caros_000\documents\visual studio 2013\Projects\test1\test1\obj\Debug\XapCacheFile.xml
+C:\Users\caros_000\Documents\Visual Studio 2013\Projects\test1 - copia\test1\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\caros_000\Documents\Visual Studio 2013\Projects\test1 - copia\test1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\caros_000\Documents\Visual Studio 2013\Projects\test1 - copia\test1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\caros_000\Documents\Visual Studio 2013\Projects\test1 - copia\test1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\caros_000\Documents\Visual Studio 2013\Projects\test1 - copia\test1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\caros_000\Documents\Visual Studio 2013\Projects\test1 - copia\test1\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\caros_000\Documents\Visual Studio 2013\Projects\test1 - copia\test1\Bin\Debug\test1.dll
+C:\Users\caros_000\Documents\Visual Studio 2013\Projects\test1 - copia\test1\Bin\Debug\test1.pdb
+C:\Users\caros_000\Documents\Visual Studio 2013\Projects\test1 - copia\test1\Bin\Debug\AppManifest.xaml
+C:\Users\caros_000\Documents\Visual Studio 2013\Projects\test1 - copia\test1\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\caros_000\Documents\Visual Studio 2013\Projects\test1 - copia\test1\Bin\Debug\test1_Debug_AnyCPU.xap
+C:\Users\caros_000\Documents\Visual Studio 2013\Projects\test1 - copia\test1\obj\Debug\App.g.cs
+C:\Users\caros_000\Documents\Visual Studio 2013\Projects\test1 - copia\test1\obj\Debug\MainPage.g.cs
+C:\Users\caros_000\Documents\Visual Studio 2013\Projects\test1 - copia\test1\obj\Debug\test1.g.resources
+C:\Users\caros_000\Documents\Visual Studio 2013\Projects\test1 - copia\test1\obj\Debug\test1.Resources.AppResources.resources
+C:\Users\caros_000\Documents\Visual Studio 2013\Projects\test1 - copia\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+C:\Users\caros_000\Documents\Visual Studio 2013\Projects\test1 - copia\test1\obj\Debug\test1.dll
+C:\Users\caros_000\Documents\Visual Studio 2013\Projects\test1 - copia\test1\obj\Debug\test1.pdb
+C:\Users\caros_000\Documents\Visual Studio 2013\Projects\test1 - copia\test1\obj\Debug\XapCacheFile.xml
